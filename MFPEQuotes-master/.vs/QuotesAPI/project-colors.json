@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "472f37bb-8044-45b0-a88b-040e29164eeb": {
+      "ProjectGuid": "472f37bb-8044-45b0-a88b-040e29164eeb",
+      "DisplayName": "QuotesAPI",
+      "ColorIndex": 0
+    },
+    "dd34fe8d-6a8c-4b8d-810c-281e3c4b6785": {
+      "ProjectGuid": "dd34fe8d-6a8c-4b8d-810c-281e3c4b6785",
+      "DisplayName": "QuotesMicroserviceTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
